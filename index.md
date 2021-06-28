@@ -1,5 +1,7 @@
 ---
-title: "Welcome to my blog"
+title: "Chadwick Sterling MS"
 ---
 
-I'm glad you are here. I plan to talk about ...
+# Chadwick Sterling
+
+Writer| Developer | Teacher 
